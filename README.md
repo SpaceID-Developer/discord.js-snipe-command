@@ -1,1 +1,1 @@
-# discord.js-snipe-command
+# Discord.js-Snipe-Command
