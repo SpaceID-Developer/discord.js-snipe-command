@@ -13,13 +13,15 @@ if (message.content.startsWith("[CHANGE_HERE]snipe"))
 ```
 ## 
 ## More
-- [Follow SpaceID Github](https://github.com/SpaceID-Developer)
+- [SpaceID Github](https://github.com/SpaceID-Developer)
 
 - [Discord Server](https://discord.gg/RfTwh5ADgC)
 
 - [SpaceID Website](https://bit.ly/3u6Zq5G)
 
-- [Invite SpaceID](https://discord.com/api/oauth2/authorize?client_id=828622587445379112&permissions=8&scope=bot)
+- [SpaceID Bot](https://discord.com/api/oauth2/authorize?client_id=828622587445379112&permissions=8&scope=bot)
+
+- [SpaceID YouTube](https://youtube.com/channel/UCidUaYBA73vVzroziVSMhSw)
 #
 Thanks For Read Me And Don't Forget To Follow Me 👋
 #
